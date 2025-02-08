@@ -8,6 +8,11 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+node 20.x.x
+npm install
+npx expo start
+Scan the QR code above with Expo Go (Android) or the Camera app (iOS)
+
 1. Install dependencies
 
    ```bash

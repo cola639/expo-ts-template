@@ -19,5 +19,10 @@ Env setting
 
 ```
 Create app
+```
+
 ![示例图片](./Create.png)
+
+```
+
 ```
